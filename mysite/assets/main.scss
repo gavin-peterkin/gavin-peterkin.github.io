@@ -1,0 +1,26 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@import "minima";
+.FeaturedImgBanner {
+    background-size: cover;
+
+    height: 300px;
+    line-height: 300px;
+    text-align: center;
+    background-position: center;
+    background-image: url(/images/mandelbrot_banner.png);
+
+}
+
+.post-title {
+  /*height: 40px;
+  line-height: 10px;*/
+  display: inline-block;
+  vertical-align: middle;
+  line-height: normal;
+  text-align: center;
+  color: white; // White text...
+  // box-shadow: inset 0 0 0 10px rgba(0, 0, 0, 0.5); // ...against a dark background
+}
