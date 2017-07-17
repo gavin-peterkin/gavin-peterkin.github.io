@@ -1,4 +1,3 @@
-# ignore all files that start with '.' except the gitignore itself
-
-.*
-!/.gitignore
+_site
+.sass-cache
+.jekyll-metadata
