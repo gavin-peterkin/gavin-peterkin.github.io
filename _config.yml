@@ -25,7 +25,7 @@ linkedin_username: gavinpeterkin
 stackoverflow_username: petergavinkin
 
 # Build settings
-markdown: redcarpet
+markdown: kramdown
 theme: minima
 gems:
   - jekyll-feed
