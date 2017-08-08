@@ -25,6 +25,27 @@
   // box-shadow: inset 0 0 0 10px rgba(0, 0, 0, 0.5); // ...against a dark background
 }
 
+.spoiler, .spoiler2{
+  color: white;
+  background-color:white;
+  display: inline;
+  border: 1px solid black;
+  padding: 3px;
+  text-align: center;
+}
+.spoiler:hover{
+  color: black;
+  display: inline;
+  border: 1px solid black;
+  padding: 3px;
+  }
+
+.boxed {
+  display: inline;
+  border: 1px solid black;
+  padding: 3px;
+}
+
 table {
     border-collapse: collapse;
 }

@@ -29,3 +29,6 @@ so _I_ won't forget.
 
 ### Contact me
 Please feel free to get in touch through any of the links below!
+
+If you notice any errors or oversights in any of my posts, or you think I could do things differently,
+_please_ shoot me an email. There's a very real chance that you're 100% right!
