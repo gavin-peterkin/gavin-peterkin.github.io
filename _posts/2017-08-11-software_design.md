@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Python Design?"
+title:  "Python"
 date:   2017-08-10 16:38:14 -0700
 categories: Programming
 ---
@@ -37,11 +37,11 @@ I have no formal training in software development, but I've learned a lot
 in the past year and a half from colleagues and lots of online research.
 I've had the pleasure (pain) of working on legacy python projects that had files
 with thousands of lines of function definitions and zero classes.
-I've worked on spaghetti code, and when I first started, I probably
+I've worked on spaghetti code, and when I first started with python, I probably
 wrote my fair share of spaghetti code as well. Now, I'm also getting into learning C,
-which is opening up a whole new lower-level world of computing!
+which is opening up a whole new world of lower-level computing!
 
-## Really basic principles I tried to follow
+## Really basic things I try to do
 
 1. **Modularity and Organization**:
 Organizing code into different components that _make physical sense_. By that I mean
@@ -71,3 +71,9 @@ means it's not really extensible.
 I took some shortcuts when working on [splter](https://github.com/gavin-peterkin/splter),
 but my main hope is that when or if I decide to work on it again in a year's time,
 I'll still be able to figure out what the heck I was thinking.
+
+## Another thing
+This ended up reminding me a lot of [this youtube video](https://www.youtube.com/watch?v=bBC-nXj3Ng4)
+in which cryptocurrencies are explained in depth. My "Ledger" is actually very similar
+to the simplified model of a "currency" that the video starts out with where everybody
+trusts everyone else.
