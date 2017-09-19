@@ -30,7 +30,7 @@ theme: minima
 gems:
   - jekyll-feed
 
-plugins:
+plugins_dir:
   - jekyll-seo-tag
 
 # <meta name="google-site-verification" content="f-HMg_G6qO5S-diIksxqGIK_er54TRHMerzMVvSFp3M" />
