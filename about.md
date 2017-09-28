@@ -7,7 +7,8 @@ featured-img: /images/mandelbrot_zoom_2_banner.png
 
 <img style="float: left;" src="../images/profile.jpg" width="170pt" hspace="17pt">
 
-I'm a recent graduate of the data science immersive program at [Galvanize](https://www.galvanize.com/seattle/data-science#outcomes in Seattle.
+I'm a recent graduate of the data science immersive program at [Galvanize](https://www.galvanize.com/seattle/data-science#outcomes) seeking
+full time data science opportunities in Seattle.
 Prior to starting at Galvanize, I was an analyst at [ECONorthwest](http://www.econw.com),
 an economic consulting firm, where I used tools in Python, SQL, and R to work on
 a toll optimization model, time series analyses, county-wide housing inventory
