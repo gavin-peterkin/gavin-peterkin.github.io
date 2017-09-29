@@ -741,6 +741,9 @@ print "ROC AUC Score:", roc_auc_score(y_test, log_reg_model.predict(X_test))
     ROC AUC Score: 0.774338633553
 
 
+This is great and all, but doesn't really help explain the relationships. For that,
+the `statsmodels` library, which has an R-like interface, is much better.
+
 
 ```python
 # Logistic regression with statsmodels
@@ -819,13 +822,13 @@ The following strategies may help reduce turnover:
 1. Recognize high achievers and offer them promotions.
 2. Reduce high performer workload by hiring more high performers.
 3. Create more incentives to stay long term. Spending a longer time at the company makes people more likely to want to leave right now.
-4. Deincentivize or stop employees from working long hours to limit dissatisfaction.
+4. Try to prevent employees from working long hours to limit dissatisfaction.
 5. Try implementing management styles in use within the R&D and Management departments company-wide.
 
 # Approach 2
 ## Identify high risk employees
 
-I'm going to introduce a new class of employee that left and had positive evaluations above a certain threshold (I selected 0.75). These are precisely the employees that we most want to stay. A purely predictive model can then be built which can be used by the client to identify at-risk employees _before_ they quit, so corrective actions can be taken (most likely offering them a promotion or something else). Even with a very limited budget to address turnover, the model could be helpful in determining how to best allocate those resources.
+I'm going to introduce a new class of employee that left and had positive evaluations above a certain threshold (I selected 0.75). These are precisely the employees that we most want to stay. A purely predictive model can then be built which can be used by the client to identify at-risk employees _before_ they quit.
 
 
 ```python
@@ -930,4 +933,4 @@ bdt.predict_proba(X_test)[:3]
 
 # Final Thoughts
 
-This model could be used in real time to quickly identify employees with a high probability of quitting. Even with a small budget, a company could use this model to quickly identify the most at-risk high-performers and offer them packages before it's too late!
+This model performs pretty well. It could be used in real time to quickly identify employees with a high probability of quitting. Even with a small budget, a company could use this model to quickly identify the most at-risk high-performers and offer them packages before it's too late!
