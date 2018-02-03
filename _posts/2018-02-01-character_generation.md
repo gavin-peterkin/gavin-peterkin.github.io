@@ -64,6 +64,8 @@ hex encodings, which was super easy:
 # prints '6a'
 >>> '6a',decode('hex')
 # prints 'j'
+>>> '/'.encode('hex')
+# prints '2f'
 ```
 
 ### Centering characters
