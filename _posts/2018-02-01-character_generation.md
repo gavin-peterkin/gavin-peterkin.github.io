@@ -43,7 +43,7 @@ later be loaded and augmented.
 I compiled a list of fonts that are actually legible. There's an entire class of
 fonts called "glyphs" that aren't actually characters. I once noticed them when
 I played with Microsoft Word as a kid. For example, did you know that the following
-thing is actually the letter 'c'?  
+thing is actually the letter 'c' (from a font called "Bodoni Ornaments")?  
 <img src="/images/weird_letters/c.png" style="width: 30px;"/>
 
 Yeah, nobody knows that, and there's no point in training a CNN to learn it.
