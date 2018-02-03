@@ -129,7 +129,8 @@ def _apply_random_rotation(self, arr):
 
 Then, I discovered a much better library exists for doing image augmentation
 specifically for creating neural network image generator objects called
-(Augmentor)[https://github.com/mdbloice/Augmentor]. It's nice!
+[Augmentor](https://github.com/mdbloice/Augmentor). It's nice and you should use it
+too!
 
 You can see the particular transformations I ended up doing in [this file](https://github.com/gavin-peterkin/char_rec/blob/master/training_generator.py)
 on GitHub. The library allows you to create "pipelines" which are transformation
