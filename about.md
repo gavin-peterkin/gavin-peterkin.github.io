@@ -7,13 +7,22 @@ featured-img: /images/mandelbrot_zoom_2_banner.png
 
 <img style="float: left;" src="../images/profile.jpg" width="170pt" hspace="17pt">
 
-I'm a recent graduate of the data science immersive program at [Galvanize](https://www.galvanize.com/seattle/data-science#outcomes) seeking
-full time data analytics opportunities in Seattle.
-Prior to starting at Galvanize, I was an analyst at [ECONorthwest](http://www.econw.com),
-an economic consulting firm, where I used tools in Python, SQL, and R to work on
-a toll optimization model, time series analyses, county-wide housing inventory
-analyses, economic impact analyses, and many more data-related and software
-development tasks. I graduated in 2015 with a bachelors in Astronomy from Cornell.
+I'm a recent graduate of the data science immersive program at [Galvanize](https://www.galvanize.com/seattle/data-science)
+with passions for math, science, technology, and blockchain stuff.
+
+Since graduating, I have joined [VendorHawk](https://www.vendorhawk.com) as a
+data scientist to assist in building out their
+Discovery Automation system.
+
+I have also returned to my prior job as an analyst
+at [ECONorthwest](http://www.econw.com), an economic consulting firm, to continue
+working on their efforts in transportation modeling--more specifically, I'm
+continuing to work on their dynamic Toll Optimization Model (TOM).
+Prior to starting at Galvanize, I spent over a year at ECO where I worked on
+time series analyses, county-wide housing inventory analyses, economic impact
+analyses, and many more data-related and software development tasks.
+
+I graduated in 2015 with a bachelors in Astronomy from Cornell.
 
 <br/>
 <br/>
